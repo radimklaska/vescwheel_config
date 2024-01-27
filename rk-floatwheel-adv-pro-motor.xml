@@ -9,7 +9,7 @@
     <l_current_min>-120</l_current_min>
     <l_in_current_max>70</l_in_current_max>
     <l_in_current_min>-70</l_in_current_min>
-    <l_abs_current_max>160</l_abs_current_max>
+    <l_abs_current_max>190</l_abs_current_max>
     <l_min_erpm>-100000</l_min_erpm>
     <l_max_erpm>100000</l_max_erpm>
     <l_erpm_start>0.8</l_erpm_start>
@@ -19,7 +19,7 @@
     <l_max_vin>95</l_max_vin>
     <l_battery_cut_start>58</l_battery_cut_start>
     <l_battery_cut_end>56</l_battery_cut_end>
-    <l_slow_abs_current>0</l_slow_abs_current>
+    <l_slow_abs_current>1</l_slow_abs_current>
     <l_temp_fet_start>75</l_temp_fet_start>
     <l_temp_fet_end>80</l_temp_fet_end>
     <l_temp_motor_start>85</l_temp_motor_start>
